@@ -91,7 +91,6 @@ distro==1.9.0
 Django==4.2.16
 dnslib==0.9.25
 dnspython==2.6.1
-dnsrecon==1.2.0
 docopt==0.6.2
 donut-shellcode==1.1
 dploot==3.0.0
